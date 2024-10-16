@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/Psiphon-Labs/psiphon-tunnel-core/psiphon/common/prng"
+	"github.com/toidicakhia/psiphon-tunnel/psiphon/common/prng"
 	"golang.org/x/crypto/cryptobyte"
 )
 

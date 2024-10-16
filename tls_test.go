@@ -22,7 +22,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Psiphon-Labs/psiphon-tls/testenv"
+	"github.com/toidicakhia/psiphon-tls/testenv"
 )
 
 var rsaCertPEM = `-----BEGIN CERTIFICATE-----

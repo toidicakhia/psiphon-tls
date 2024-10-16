@@ -24,7 +24,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Psiphon-Labs/psiphon-tunnel-core/psiphon/common/prng"
+	"github.com/toidicakhia/psiphon-tunnel/psiphon/common/prng"
 )
 
 const (
